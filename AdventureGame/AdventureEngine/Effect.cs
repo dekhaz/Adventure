@@ -13,14 +13,14 @@ namespace AdventureEngine
         bool cureall;
         bool barrier;
         int Cost;
-        
+
         public Effect()
         {
 
         }
 
- 
-        public Effect(int val,bool r, bool c, bool b, int money)
+
+        public Effect(int val, bool r, bool c, bool b, int money)
         {
             Strength = val;
             restorative = r;
@@ -43,17 +43,22 @@ namespace AdventureEngine
                     {
                         consumer.SetScars(0);
                     }
+                }
+                if (cureall)
+                {
+                    consumer.SetStatus(Status.Normal);
+                }
+                if (barrier)
+                {
+                    consumer.SetTactic(Tactical.Barrier);
+                }
             }
-            if (cureall)
-            {
-                consumer.SetStatus(Status.Normal);
-            }
-            if (barrier)
-            {
-                consumer.SetTactic(Tactical.Barrier);
-            }
+
+
         }
-
-
     }
+
 }
+
+
+
