@@ -1,0 +1,12 @@
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureEngine.dll
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureEngine.pdb
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureView.csprojResolveAssemblyReference.cache
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.AdventureMode.resources
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.Properties.Resources.resources
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureView.csproj.GenerateResource.Cache
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureView.csproj.CoreCompileInputs.cache
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\Kait\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb

@@ -1,0 +1,5 @@
+C:\Users\Kait\source\repos\AdventureGame\AdventureEngine\bin\Debug\AdventureEngine.dll
+C:\Users\Kait\source\repos\AdventureGame\AdventureEngine\bin\Debug\AdventureEngine.pdb
+C:\Users\Kait\source\repos\AdventureGame\AdventureEngine\obj\Debug\AdventureEngine.csproj.CoreCompileInputs.cache
+C:\Users\Kait\source\repos\AdventureGame\AdventureEngine\obj\Debug\AdventureEngine.dll
+C:\Users\Kait\source\repos\AdventureGame\AdventureEngine\obj\Debug\AdventureEngine.pdb
